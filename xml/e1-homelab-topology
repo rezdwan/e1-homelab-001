@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T03:11:46.924Z" agent="5.0 (Windows)" etag="K2BC_qJ98J4sNfx2fZRj" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-09T03:13:28.528Z" agent="5.0 (Windows)" etag="vZXDNn0-w8E47KPjdfmD" version="20.4.0" type="github">
   <diagram id="QJ6GMFbABUFiQyYIJUGk" name="Logical">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="-LniUTqp3Zt8iGKQNXv3-11" value="&lt;div&gt;Camera&lt;/div&gt;&lt;div&gt;G3 Flex&lt;br&gt;&lt;/div&gt;" style="points=[[0,0.5,0],[0.19,0.02,0],[0.59,0,0],[0.985,0.02,0],[1,0.5,0],[0.985,0.98,0],[0.59,1,0],[0.19,0.98,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.camera;fillColor=#005073;strokeColor=none;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="50" height="27.78" as="geometry" />
         </mxCell>
-        <mxCell id="-LniUTqp3Zt8iGKQNXv3-13" value="G4 Doorbell" style="points=[[0,0.5,0],[0.19,0.02,0],[0.59,0,0],[0.985,0.02,0],[1,0.5,0],[0.985,0.98,0],[0.59,1,0],[0.19,0.98,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.camera;fillColor=#005073;strokeColor=none;flipH=1;" vertex="1" parent="1">
+        <mxCell id="-LniUTqp3Zt8iGKQNXv3-13" value="&lt;div&gt;Camera&lt;/div&gt;&lt;div&gt;G4 Doorbell&lt;/div&gt;" style="points=[[0,0.5,0],[0.19,0.02,0],[0.59,0,0],[0.985,0.02,0],[1,0.5,0],[0.985,0.98,0],[0.59,1,0],[0.19,0.98,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.camera;fillColor=#005073;strokeColor=none;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="50" height="27.78" as="geometry" />
         </mxCell>
         <mxCell id="-LniUTqp3Zt8iGKQNXv3-36" value="&lt;div&gt;Desktop&lt;/div&gt;&lt;div&gt;PC&lt;br&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;aspect=fixed;" vertex="1" parent="1">
